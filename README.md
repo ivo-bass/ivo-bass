@@ -2,10 +2,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400vw" />
 
 
-I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
+I'm a dev student who is passionate about writing code, solving problems, automating stuff, building software.
 
-- 📚 I’m currently learning backend web development using Python
-- 👯 I’m looking for a software development internship. 
+- 📚 Currently learning backend web development using Python
+- 👯 Looking for a carrer start 
 
 <br/>
 <a href="https://github.com/ivo-bass">
