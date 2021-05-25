@@ -1,5 +1,5 @@
 ## Hi there <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px">                                                                                                  
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="400vw" /> -->
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400vw" /> -->
 
 
 I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
@@ -18,8 +18,3 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 <a href="mailto:ivailo.ignatoff@gmail.com"><img align="right" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
 <a href="https://www.linkedin.com/in/ivailo-ignatov/"><img align="right" alt="LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
 </a>
-
-<!-- ### 👨‍💻 Currently using:
-[![JavaScript](https://img.shields.io/badge/-JavaScript-E34F26?style=flat&logo=JavaScript&logoColor=yellow&link=https://github.com/borislavstoychev/SoftUni)](https://github.com/borislavstoychev/SoftUni) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/borislavstoychev)](https://github.com/borislavstoychev) [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow&link=https://github.com/borislavstoychev/Soft_Uni)](https://github.com/borislavstoychev/Soft_Uni) -->
-
-⭐️⭐️⭐️⭐️⭐️
