@@ -18,3 +18,5 @@ I'm a dev student who is passionate about writing code, solving problems, automa
 <a href="mailto:ivailo.ignatoff@gmail.com"><img align="right" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
 <a href="https://www.linkedin.com/in/ivailo-ignatov/"><img align="right" alt="LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
 </a>
+
+(https://komarev.com/ghpvc/?username=ivo-bass&label=PROFILE+VIEWS&color=green)
