@@ -8,13 +8,13 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 - 👯 I’m looking for a software development internship. 
 
 <br/>
-<a href="https://github.com/borislavstoychev">
+<a href="https://github.com/ivo-bass">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ivo-bass&theme=chartreuse-dark&show_icons=true" />
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivo-bass&theme=dark&layout=compact" />
 </a>
 <br/>
 
-<h3 align="right">Contact me or stalk</h3>
+<h3 align="right">Contact me</h3>
 <a href="mailto:ivailo.ignatoff@gmail.com"><img align="right" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
 <a href="https://www.linkedin.com/in/ivailo-ignatov/"><img align="right" alt="LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
 </a>
