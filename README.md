@@ -1,4 +1,4 @@
-## Welcome <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px">                                                   ![](https://komarev.com/ghpvc/?username=a-kbv&label=PROFILE+VIEWS&color=green)                                                                                         
+## Welcome <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px">                                                                                        
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="400vw" />
 
 
