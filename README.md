@@ -5,7 +5,7 @@
 I'm a dev student who is passionate about writing code, solving problems, automating stuff, building software.
 
 - 📚 Currently learning backend web development using Python
-- 👯 Looking for a carrer start 
+- 👯 Looking for a career start 
 
 <br/>
 <a href="https://github.com/ivo-bass">
