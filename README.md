@@ -7,6 +7,12 @@ I'm a dev student who is passionate about writing code, solving problems, automa
 - 📚 Currently learning backend web development using Python
 - 👯 Looking for a career start 
 
+###Certificates:
+- [Python Fundamentals](https://softuni.bg/certificates/details/97017/6f60ed92)
+- [Python Advanced](https://softuni.bg/certificates/details/97645/52fd863a)
+- [Python OOP](https://softuni.bg/certificates/details/104049/a19f7263)
+- [QA Manual](https://softuni.bg/certificates/details/89821/7a101157)
+
 <br/>
 <a href="https://github.com/ivo-bass">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ivo-bass&theme=chartreuse-dark&show_icons=true" />
