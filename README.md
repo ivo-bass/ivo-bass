@@ -7,6 +7,25 @@ I'm a dev student who is passionate about writing code, solving problems, automa
 - 📚 Currently learning backend web development using Python
 - 👯 Looking for a career start 
 
+<details>
+  <summary>iOS world</summary>
+  
+  - :red_circle: :red_circle: :red_circle: :red_circle: :o: UIKit
+  - :red_circle: :red_circle: :red_circle: :o: :o: SwiftUI
+  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Swift
+  - :red_circle: :red_circle: :red_circle: :o: :o: Objective-C
+  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: MVC
+  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: MVVM+C Architecture
+  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: Redux-like SwiftUI Architecture
+  - :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: RxSwift
+  - :red_circle: :red_circle: :red_circle: :red_circle: :o: Combine
+  - :red_circle: :red_circle: :red_circle: :o: :o: MapKit
+  - :red_circle: :red_circle: :red_circle: :o: :o: Alamofire
+  - :red_circle: :red_circle: :o: :o: :o: CoreData
+  - :red_circle: :o: :o: :o: :o: Realm
+</details>
+
+
 **Certificates**:
 - [Python Fundamentals](https://softuni.bg/certificates/details/97017/6f60ed92)
 - [Python Advanced](https://softuni.bg/certificates/details/97645/52fd863a)
