@@ -8,8 +8,7 @@ I'm a dev student who is passionate about writing code, solving problems, automa
 - 👯 Looking for a career start 
 
 <details>
-  <summary><h3>Certificates:</h3></summary>
-  
+  <summary>Certificates:</summary>
 - [Python Fundamentals](https://softuni.bg/certificates/details/97017/6f60ed92)
 - [Python Advanced](https://softuni.bg/certificates/details/97645/52fd863a)
 - [Python OOP](https://softuni.bg/certificates/details/104049/a19f7263)
