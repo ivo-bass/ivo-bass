@@ -8,7 +8,7 @@ I'm a dev student who is passionate about writing code, solving problems, automa
 - 👯 Looking for a career start 
 
 <details>
-  <summary>Certificates</summary>
+  <summary>**Certificates:**</summary>
   
 - [Python Fundamentals](https://softuni.bg/certificates/details/97017/6f60ed92)
 - [Python Advanced](https://softuni.bg/certificates/details/97645/52fd863a)
@@ -16,12 +16,6 @@ I'm a dev student who is passionate about writing code, solving problems, automa
 - [QA Manual](https://softuni.bg/certificates/details/89821/7a101157)
 </details>
 
-
-**Certificates**:
-- [Python Fundamentals](https://softuni.bg/certificates/details/97017/6f60ed92)
-- [Python Advanced](https://softuni.bg/certificates/details/97645/52fd863a)
-- [Python OOP](https://softuni.bg/certificates/details/104049/a19f7263)
-- [QA Manual](https://softuni.bg/certificates/details/89821/7a101157)
 
 <br/>
 <a href="https://github.com/ivo-bass">
