@@ -8,11 +8,21 @@ I'm a dev student who is passionate about writing code, solving problems, automa
 - 👯 Looking for a career start 
 
 <details>
-  <summary>Certificates:</summary>
+  <summary>My Certificates:</summary>
+  
 - [Python Fundamentals](https://softuni.bg/certificates/details/97017/6f60ed92)
 - [Python Advanced](https://softuni.bg/certificates/details/97645/52fd863a)
 - [Python OOP](https://softuni.bg/certificates/details/104049/a19f7263)
 - [QA Manual](https://softuni.bg/certificates/details/89821/7a101157)
+</details>
+
+<details>
+  <summary>Top Projects:</summary>
+  
+- [Voting App](https://github.com/ivo-bass/Vote#readme)
+- [Web SPA](https://github.com/ivo-bass/SinglePage-Website#readme)
+- [2D Game](https://github.com/ivo-bass/Cars_Game#readme)
+- [Cooking Helper App](https://github.com/ivo-bass/cooking_helper_gui)
 </details>
 
 
