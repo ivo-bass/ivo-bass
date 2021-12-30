@@ -2,14 +2,14 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/EQKtfl2Np0ME05furr/giphy.gif" width="400vw" />
 
 
-I'm a dev student who is passionate about writing code, solving problems, automating stuff, building software.
+Specialist Data Processing.
 
-- 📚 Currently learning backend web development using Python
-- 👯 Looking for a career start 
+- 📚 Currently working at Adastra as Specialist Data Processing with Spark and AWS
 
 <details>
   <summary>My Certificates:</summary>
   
+- [Django](https://softuni.bg/certificates/details/111880/828c61b0)
 - [Python Fundamentals](https://softuni.bg/certificates/details/97017/6f60ed92)
 - [Python Advanced](https://softuni.bg/certificates/details/97645/52fd863a)
 - [Python OOP](https://softuni.bg/certificates/details/104049/a19f7263)
